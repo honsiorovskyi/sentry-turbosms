@@ -3,9 +3,9 @@
 sentry-turbosms
 ===============
 
-An extension for Sentry which allows creation various web hooks.
+A Sentry extension which integrates TurboSMS.
 
-:copyright: (c) 2012 by the Sentry Team, see AUTHORS for more details.
+:copyright: (c) 2014 by Denis Gonsiorovsky.
 :license: BSD, see LICENSE for more details.
 """
 from setuptools import setup, find_packages
